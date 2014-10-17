@@ -15,6 +15,9 @@ public class firstJava {
 		System.out.println(sb);
 		
 		System.out.println("==================\n=============== Change done for viewing ========\n==================");
+		
+		System.out.println("###########\n\nAnother change done\n\n#############");
+		
 		String S1 = "23456";
 		String S2 = "555544T5his";
 		String S3 = "$";
