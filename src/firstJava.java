@@ -11,7 +11,7 @@ public class firstJava {
 		sb.append(" is");
 		sb.append(" : " + ss);
 		sb.trimToSize();
-		
+		System.out.println(" Pancuz==:");
 		System.out.println(sb);
 		System.out.println("==:");
 		System.out.println("==================\n=============== Change done for viewing ========\n==================");
