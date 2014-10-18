@@ -13,7 +13,7 @@ public class firstJava {
 		sb.trimToSize();
 		
 		System.out.println(sb);
-		
+		System.out.println("==:");
 		System.out.println("==================\n=============== Change done for viewing ========\n==================");
 		
 		System.out.println("###########\n\nAnother change done\n\n#############");
